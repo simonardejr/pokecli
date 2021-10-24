@@ -12,7 +12,12 @@ Just clone this repo using:
 git clone https://github.com/simonardejr/pokecli.git
 ```
 
-Once the clone is finished, you can run `pokecli` it with:
+And run composer install:
+```bash
+composer install
+```
+
+Once the clone and installation is finished, you can run `pokecli` it with:
 
 ```bash
 cd pokecli
