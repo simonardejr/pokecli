@@ -6,7 +6,7 @@ PokeCLI is a example app built using [Minicli](https://github.com/minicli/minicl
 
 To get started, you'll need:
 - php-cli 
-- ext-curl [How to install on Linux](https://stackoverflow.com/a/22618953)
+- ext-curl ([How to install on Linux](https://stackoverflow.com/a/22618953))
 - [Composer](https://getcomposer.org/) 
  
 Just clone this repo using:
